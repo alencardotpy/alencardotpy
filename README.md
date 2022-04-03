@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working with RPA Development and some Web Development.
-- 🌱 I’m currently learning TypeScript and React Native(Thinking about Flutter soon).
+- 🌱 I’m currently learning Gatsby and GraphQL.
 - 👯 I’m looking to collaborate on Python, React, Web Development in general.
  
 <div align="center">
