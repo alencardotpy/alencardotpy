@@ -3,13 +3,6 @@
 
 - 🔭 I’m currently working with RPA Development and some Web Development.
 
- 
-<div align="center">
-  <a href="https://github.com/alencardotpy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alencardotpy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alencardotpy&layout=compact&langs_count=10&theme=tokyonight"/>
-</div>
-
 <div style="display: inline_block"><br>
    <p>Technologies:</p>
   <img align="center" alt="Alen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
