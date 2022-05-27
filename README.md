@@ -10,7 +10,6 @@
   <img align="center" alt="Alen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Alen-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
    <img align="center" alt="Alen-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-      <img align="center" alt="Alen-feathersjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/feathersjs/feathersjs-original.svg">
          <img align="center" alt="Alen-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 
 
